@@ -1,4 +1,4 @@
-% Variables: (X, Y) <- Productos; (F) <- Función objetivo
+% Variables: (x1, x2, x3, x4, x5); (F) <- Función objetivo
 var float: x1;
 var float: x2;
 var float: x3;
